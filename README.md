@@ -1,3 +1,3 @@
-#git_learning
+#git_learn
 
-git tutorial
+tutorial
